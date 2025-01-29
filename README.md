@@ -37,7 +37,7 @@ uvicorn main:app --reload
 
 ![Api list](api_swagger.jpg)
 
-Further References:
+Other References:
 ----
 
 1. [https://www.datacamp.com/tutorial/pgvector-tutorial](https://www.datacamp.com/tutorial/pgvector-tutorial)   
